@@ -26,6 +26,9 @@ para.style.paddingTop = "15px"
 para.style.color = "#fff";
 para.append(text);
 div.append(para);
+div.className = "hidden";
+btn.className = "hidden";
+button.className = "hidden";
 maniContainer.append(button);
 maniContainer.append(btn);
 button.style.cssText = "background-color:red; color:#fff; padding:6px; margin:5px; border-radius:5px; border:1px solid grey; cursor:pointer";

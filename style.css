@@ -436,8 +436,8 @@ body{
     .maincontainer{
         margin: 0px auto;
     }
-   .address{
-         background-color: #313c4e; 
-    }
+   .hidden{
+    display: none;
+   }
 }
 
